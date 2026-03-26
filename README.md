@@ -88,7 +88,7 @@ Built a multi-task Power BI dashboard analyzing tweet engagement metrics includi
 
 I'm actively looking for **remote entry-level Data Analyst or BI Analyst roles**. If you're a recruiter, hiring manager, or just want to chat about data — feel free to reach out!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/asmamuhammed-60983062)
+- 💼 www.linkedin.com/in/asma-muhammed-60983062
 - 📧 [asma_muhammed@hotmail.com](mailto:asma_muhammed@hotmail.com)
 - 📄 [Download My CV](./Asma_Muhammed_CV.pdf)
 
